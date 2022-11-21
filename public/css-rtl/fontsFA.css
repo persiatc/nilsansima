@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'BBardiya';
+  src: url('fontsFA/BBardiya.eot');
+  src: url('fontsFA/BBardiya.eot') format('embedded-opentype'), url('fontsFA/BBardiya.woff') format('woff'), url('fontsFA/BBardiya.ttf') format('truetype'), url('fontsFA/BBardiya.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'BKoodakBold';
+  src: url('fontsFA/BKoodakBold.eot');
+  src: url('fontsFA/BKoodakBold.eot') format('embedded-opentype'), url('fontsFA/BKoodakBold.woff') format('woff'), url('fontsFA/BKoodakBold.ttf') format('truetype'), url('fontsFA/BKoodakBold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'BYekan';
+  src: url('fontsFA/BYekan.eot');
+  src: url('fontsFA/BYekan.eot') format('embedded-opentype'), url('fontsFA/BYekan.woff') format('woff'), url('fontsFA/BYekan.ttf') format('truetype'), url('fontsFA/BYekan.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Rezvan';
+  src: url('fontsFA/Rezvan.eot');
+  src: url('fontsFA/Rezvan.eot') format('embedded-opentype'), url('fontsFA/Rezvan.woff') format('woff'), url('fontsFA/Rezvan.ttf') format('truetype'), url('fontsFA/Rezvan.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

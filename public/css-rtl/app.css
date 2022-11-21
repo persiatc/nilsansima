@@ -1,0 +1,13 @@
+@import url('bootstrap-extended.css');
+@import url('colors.css');
+@import url('components.css');
+
+@font-face {
+    font-family: 'BYekan';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/gandom-font-v0.5.1/Without-Latin/Gandom-WOL.eot') format('eot'), url('./fonts/gandom-font-v0.5.1/Without-Latin/Gandom-WOL.ttf') format('truetype'), url('./fonts/gandom-font-v0.5.1/Without-Latin/Gandom-WOL.woff') format('woff');
+}
+body{
+    font-family: 'BYekan', serif !important;
+}
